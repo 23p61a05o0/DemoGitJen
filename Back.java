@@ -22,5 +22,6 @@ public class Back {
         
         // Example of printing the class name using reflection
         System.out.println("Class Name: " + myBack.getClass().getSimpleName());
+        System.out.println("All builds are successful");
     }
 }
